@@ -109,9 +109,9 @@ global.APIKeys = { // APIKey Here
 
 
 /*============== WATERMARK ==============*/
-global.wm = '⳹ ❋ཻུ۪۪⸙Zifabotz-MD⳹ ❋ཻུ۪۪' //Main Watermark
-global.wm2 = '⳹ ❋ཻུ۪۪⸙Zifabotz-MD⳹ ❋ཻུ۪۪'
-global.wm3 = '⳹ ❋ཻུ۪۪⸙Zifabotz-MD⳹ ❋ཻུ۪۪'
+global.wm = 'Roni' //Main Watermark
+global.wm2 = 'Roni'
+global.wm3 = 'Roni'
 global.botdate = `☘︎ 𝗗𝗮𝘁𝗲: ${week} ${date}\n☘︎ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `☘︎ 𝗪𝗵𝗮𝘁𝘀𝗮𝗽𝗽 𝗕𝗼𝘁 𝗠𝘂𝗹𝘁𝗶-𝗗𝗲𝘃𝗶𝗰𝗲| By ${global.nameown}`
