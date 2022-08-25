@@ -41,22 +41,22 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
     
 
 /*============== SOCIAL ==============*/
-global.sig = 'https://instagram.com/zalfapontianak'
+global.sig = '-'
 global.sgh = 'https://github.com/Botynyakamu'
-global.sgc = 'https://chat.whatsapp.com/I8Q4oJVw8buHhIgMH5iVAv'
-global.sdc = 'https://wa.me/message/LSVGQQPG6FUQF1'
-global.snh = 'https://youtube.com/channel/UCeUvY_fIVSAaQ1n5SAylI-A'
+global.sgc = 'https://chat.whatsapp.com/C4RYpIXgqknIXsnn3VDTog'
+global.sdc = '-'
+global.snh = '-'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085828764046'
-global.povo = '085828764046'
-global.pgopay = '085828764046'
+global.pdana = '085806008040'
+global.povo = '085806008040'
+global.pgopay = '085806008040'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285787476829'
-global.nomorown = '6285828377610'
-global.namebot = '⳹ ❋ཻུ۪۪⸙Zifabotz-MD⳹ ❋ཻུ۪۪'
-global.nameown = 'ᴹᴿ᭄ ZifaOffcོ_1ঔৣ꧂'
+global.nomorbot = '79303892034'
+global.nomorown = '6285806008040'
+global.namebot = 'Kontol-BOT'
+global.nameown = 'RONI'
 
 
 /*============== STAFF ==============*/
@@ -115,14 +115,14 @@ global.wm3 = '⳹ ❋ཻུ۪۪⸙Zifabotz-MD⳹ ❋ཻུ۪۪'
 global.botdate = `☘︎ 𝗗𝗮𝘁𝗲: ${week} ${date}\n☘︎ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `☘︎ 𝗪𝗵𝗮𝘁𝘀𝗮𝗽𝗽 𝗕𝗼𝘁 𝗠𝘂𝗹𝘁𝗶-𝗗𝗲𝘃𝗶𝗰𝗲| By ${global.nameown}`
-global.author = '┄┄┄┅┅❑ ROZI ❑┅┅┄┄┄'
+global.author = '┄┄┄┅┅❑ RONI ❑┅┅┄┄┄'
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://telegra.ph/file/3c83bc5fa0cbcdc6a1e75.jpg' //Main Thumbnail
-global.imagebot = 'https://telegra.ph/file/3c83bc5fa0cbcdc6a1e75.jpg'
-global.giflogo = 'https://telegra.ph/file/3c83bc5fa0cbcdc6a1e75.jpg'
-global.thumbs = ['https://telegra.ph/file/3c83bc5fa0cbcdc6a1e75.jpg', 'https://telegra.ph/file/3c83bc5fa0cbcdc6a1e75.jpg', 'https://telegra.ph/file/3c83bc5fa0cbcdc6a1e75.jpg']
+global.thumb = 'https://telegra.ph/file/2ddcdf7a07e30366af4d7.jpg' //Main Thumbnail
+global.imagebot = 'https://telegra.ph/file/2ddcdf7a07e30366af4d7.jpg'
+global.giflogo = 'https://telegra.ph/file/2ddcdf7a07e30366af4d7.jpg'
+global.thumbs = ['https://telegra.ph/file/2ddcdf7a07e30366af4d7.jpg', 'https://telegra.ph/file/3c83bc5fa0cbcdc6a1e75.jpg', 'https://telegra.ph/file/2ddcdf7a07e30366af4d7.jpg']
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 
 /*============== HENTAI ==============*/ //Ini cuma simpenan owner kanna kok :v
